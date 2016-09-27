@@ -1,2 +1,3 @@
 # oauth-client4j-sample-php
-提供 php oauth1授权demo
+
+php语言实现的oauth1授权demo
